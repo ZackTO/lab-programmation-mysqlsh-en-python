@@ -1,0 +1,213 @@
+{
+"countries":[
+{
+    "GNP": 116729,
+    "_id": "ZAF",
+    "Name": "South Africa",
+    "IndepYear": 1910,
+    "geography": {
+        "Region": "Southern Africa",
+        "Continent": "Africa",
+        "SurfaceArea": 1221037
+    },
+    "government": {
+        "HeadOfState": "Thabo Mbeki",
+        "GovernmentForm": "Republic"
+    },
+    "demographics": {
+        "Population": 40377000,
+        "LifeExpectancy": 51.099998474121094
+    }
+},
+{
+    "GNP": 3459,
+    "_id": "HTI",
+    "Name": "Haiti",
+    "IndepYear": 1804,
+    "geography": {
+        "Region": "Caribbean",
+        "Continent": "North America",
+        "SurfaceArea": 27750
+    },
+    "government": {
+        "HeadOfState": "Jean-Bertrand Aristide",
+        "GovernmentForm": "Republic"
+    },
+    "demographics": {
+        "Population": 8222000,
+        "LifeExpectancy": 49.20000076293945
+    }
+},
+{
+    "GNP": 6871,
+    "_id": "JAM",
+    "Name": "Jamaica",
+    "IndepYear": 1962,
+    "geography": {
+        "Region": "Caribbean",
+        "Continent": "North America",
+        "SurfaceArea": 10990
+    },
+    "government": {
+        "HeadOfState": "Elisabeth II",
+        "GovernmentForm": "Constitutional Monarchy"
+    },
+    "demographics": {
+        "Population": 2583000,
+        "LifeExpectancy": 75.19999694824219
+    }
+},
+{
+    "GNP": 36124,
+    "_id": "MAR",
+    "Name": "Morocco",
+    "IndepYear": 1956,
+    "geography": {
+        "Region": "Northern Africa",
+        "Continent": "Africa",
+        "SurfaceArea": 446550
+    },
+    "government": {
+        "HeadOfState": "Mohammed VI",
+        "GovernmentForm": "Constitutional Monarchy"
+    },
+    "demographics": {
+        "Population": 28351000,
+        "LifeExpectancy": 69.0999984741211
+    }
+},
+{
+    "GNP": 3787042,
+    "_id": "JPN",
+    "Name": "Japan",
+    "IndepYear": -660,
+    "geography": {
+        "Region": "Eastern Asia",
+        "Continent": "Asia",
+        "SurfaceArea": 377829
+    },
+    "government": {
+        "HeadOfState": "Akihito",
+        "GovernmentForm": "Constitutional Monarchy"
+    },
+    "demographics": {
+        "Population": 126714000,
+        "LifeExpectancy": 80.69999694824219
+    }
+},
+{
+    "GNP": 86503,
+    "_id": "SGP",
+    "Name": "Singapore",
+    "IndepYear": 1965,
+    "geography": {
+        "Region": "Southeast Asia",
+        "Continent": "Asia",
+        "SurfaceArea": 618
+    },
+    "government": {
+        "HeadOfState": "Sellapan Rama Nathan",
+        "GovernmentForm": "Republic"
+    },
+    "demographics": {
+        "Population": 3567000,
+        "LifeExpectancy": 80.0999984741211
+    }
+},
+{
+    "GNP": 2425,
+    "_id": "BFA",
+    "Name": "Burkina Faso",
+    "IndepYear": 1960,
+    "geography": {
+        "Region": "Western Africa",
+        "Continent": "Africa",
+        "SurfaceArea": 274000
+    },
+    "government": {
+        "HeadOfState": "Blaise Compaoré",
+        "GovernmentForm": "Republic"
+    },
+    "demographics": {
+        "Population": 11937000,
+        "LifeExpectancy": 46.70000076293945
+    }
+},
+{
+    "GNP": 7073,
+    "_id": "RDC",
+    "Name": "Democratic Republic of Congo",
+    "IndepYear": 1960,
+    "geography": {
+        "Region": "Central Africa",
+        "Continent": "Africa",
+        "SurfaceArea": 2345409
+    },
+    "government": {
+        "HeadOfState": "Joseph Kabila Kabange",
+        "GovernmentForm": "Republic"
+    },
+    "demographics": {
+        "Population": 81340000,
+        "LifeExpectancy": 69.47269439697275
+    }
+},
+{
+    "GNP": 2357,
+    "_id": "BEN",
+    "Name": "Benin",
+    "IndepYear": 1960,
+    "geography": {
+        "Region": "Western Africa",
+        "Continent": "Africa",
+        "SurfaceArea": 112622
+    },
+    "government": {
+        "HeadOfState": "Mathieu Kérékou",
+        "GovernmentForm": "Republic"
+    },
+    "demographics": {
+        "Population": 6097000,
+        "LifeExpectancy": 50.20000076293945
+    }
+},
+{
+    "GNP": 4787,
+    "_id": "SEN",
+    "Name": "Senegal",
+    "IndepYear": 1960,
+    "geography": {
+        "Region": "Western Africa",
+        "Continent": "Africa",
+        "SurfaceArea": 196722
+    },
+    "government": {
+        "HeadOfState": "Abdoulaye Wade",
+        "GovernmentForm": "Republic"
+    },
+    "demographics": {
+        "Population": 9481000,
+        "LifeExpectancy": 62.20000076293945
+    }
+},
+{
+    "GNP": 903,
+    "_id": "BDI",
+    "Name": "Burundi",
+    "IndepYear": 1962,
+    "geography": {
+        "Region": "Eastern Africa",
+        "Continent": "Africa",
+        "SurfaceArea": 27834
+    },
+    "government": {
+        "HeadOfState": "Pierre Buyoya",
+        "GovernmentForm": "Republic"
+    },
+    "demographics": {
+        "Population": 6695000,
+        "LifeExpectancy": 46.20000076293945
+    }
+}
+]
+}
