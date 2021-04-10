@@ -44,6 +44,11 @@ def lecture(fichier):
   # Retourne un dictionnaire Python du fichier json converti
   return docs
 
+  for doc in docs.fetch_all():
+    for country in doc.countries:
+
+
+
 def main():
   docs = lecture('b000000000.json')
   print(len(docs.fetch_all()))
